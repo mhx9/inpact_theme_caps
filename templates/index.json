@@ -426,10 +426,11 @@
         "item_zW7QDB": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "Laura P.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"En seulement quatre applications, j’ai l’impression d’avoir retrouvé la peau de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. Je suis ravie\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -438,10 +439,11 @@
         "item_ALGJU9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/5.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "Christelle B.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -450,10 +452,11 @@
         "item_hL3ViA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/complement-alimentaire-rougeurs-et-sensibilite-french-glow-ori_271a1677-b643-4857-83ae-5ffbf6374ea6.webp",
             "column_size": "4",
-            "title": "Column title",
+            "title": "Alice F.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"Je ne supportais plus mes rougeurs sur mon visage, je pensais à un traitement médicale, puis j’ai essayé Flaner. Je suis tellement heureuse, ma peau est apaisé !\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
