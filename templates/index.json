@@ -15,11 +15,13 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ordi_nature_4.png",
+            "mobile_image": "shopify://shop_images/ban_phone_1_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -27,7 +29,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -35,11 +37,13 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ordi_nature_6.png",
+            "mobile_image": "shopify://shop_images/ban_phone_1.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -47,7 +51,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
@@ -75,6 +79,7 @@
         "logo_FAqdhy": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -82,6 +87,7 @@
         "logo_KyGkMn": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo_cos.png",
             "logo_width": 120,
             "link": ""
           }
@@ -89,6 +95,7 @@
         "logo_477hAr": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -96,6 +103,7 @@
         "logo_3xPWUe": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Womenshealthlogo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -404,13 +412,13 @@
         "button_radius": 8,
         "button_border_thickness": 1,
         "button_style": "outline",
-        "button_color": "#FFFFFF",
+        "button_color": "#ffffff",
         "button_hover_color": "#000000",
         "button_bg_color": "#000000",
-        "button_bg_hover_color": "#FFFFFF",
+        "button_bg_hover_color": "#ffffff",
         "button_border_color": "#000000",
         "button_border_hover_color": "#000000",
-        "card_bg_color": "#FFFFFF",
+        "card_bg_color": "#ffffff",
         "card_border_color": "#000000",
         "card_heading_color": "#000000",
         "card_text_color": "#000000",
@@ -418,10 +426,10 @@
         "view_color": "#000000",
         "heading_color": "#000000",
         "rating_text_color": "#000000",
-        "stars_bg_color": "#00B67A",
-        "stars_color": "#FFFFFF",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -968,34 +976,34 @@
         "modal_text_align": "center",
         "modal_text_align_mobile": "center",
         "modal_text_mt": 16,
-        "card_bg_color": "#FFFFFF",
+        "card_bg_color": "#ffffff",
         "card_border_color": "#000000",
         "card_shadow_color": "#000000",
         "video_overlay_color": "#000000",
         "icon_bg_color": "#000000",
-        "icon_border_color": "#FFFFFF",
-        "icon_color": "#FFFFFF",
-        "arrow_bg_color": "#FFFFFF",
-        "arrow_bg_hover_color": "#FFFFFF",
+        "icon_border_color": "#ffffff",
+        "icon_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
         "arrow_border_color": "#000000",
         "arrow_border_hover_color": "#000000",
         "arrow_icon_color": "#1c1c1c",
         "arrow_icon_hover_color": "#1c1c1c",
-        "modal_bg_color": "#FFFFFF",
+        "modal_bg_color": "#ffffff",
         "modal_border_color": "#000000",
-        "close_bg_color": "#FFFFFF",
+        "close_bg_color": "#ffffff",
         "close_border_color": "#000000",
-        "close_icon_color": "#FFFFFF",
-        "buttons_bg_color": "#FFFFFF",
+        "close_icon_color": "#ffffff",
+        "buttons_bg_color": "#ffffff",
         "buttons_border_color": "#000000",
-        "buttons_icon_color": "#FFFFFF",
+        "buttons_icon_color": "#ffffff",
         "modal_video_border_color": "#000000",
-        "modal_content_bg_color": "#FFFFFF",
+        "modal_content_bg_color": "#ffffff",
         "modal_content_border_color": "#000000",
         "modal_heading_color": "#000000",
         "modal_text_color": "#000000",
         "heading_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
