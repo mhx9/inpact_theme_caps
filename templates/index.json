@@ -361,70 +361,6 @@
     },
     "review_trustpilot_EPrAkk": {
       "type": "review-trustpilot",
-      "blocks": {
-        "item_6gkVee": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "item_dg4CKj": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "item_Vpew33": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "item_nJxpxX": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "item_RVrh7i": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "item_bdtta9": {
-          "type": "item",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! ðŸ˜",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        }
-      },
-      "block_order": [
-        "item_6gkVee",
-        "item_dg4CKj",
-        "item_Vpew33",
-        "item_nJxpxX",
-        "item_RVrh7i",
-        "item_bdtta9"
-      ],
       "name": "SS - Testimonial #16",
       "settings": {
         "content_align": "center",
@@ -504,7 +440,7 @@
         "card_author_date_text_height": 130,
         "card_author_date_text_mt": 16,
         "card_author_date_text_mt_mobile": 16,
-        "button": "View All",
+        "button": "",
         "button_url": "",
         "button_custom": false,
         "button_font": "josefin_sans_n4",
@@ -544,8 +480,8 @@
         "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
-        "padding_top": 60,
-        "padding_bottom": 60,
+        "padding_top": 20,
+        "padding_bottom": 0,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
         "full_width": true,
