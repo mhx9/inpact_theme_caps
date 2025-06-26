@@ -170,7 +170,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/bienfaits_ordi_4.png",
-        "mobile_image": "shopify://shop_images/bienfaits_ordi_4.png",
+        "mobile_image": "shopify://shop_images/bienfaits_mobile_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -477,6 +477,9 @@
         "item_ALGJU9",
         "item_hL3ViA",
         "item_FHMxxy"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
       ],
       "name": "Multi-column",
       "settings": {
