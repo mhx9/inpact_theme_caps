@@ -442,7 +442,19 @@
         "item_zW7QDB": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ALGJU9": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -454,7 +466,7 @@
         "item_hL3ViA": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -466,7 +478,7 @@
         "item_FHMxxy": {
           "type": "item",
           "settings": {
-            "column_size": "3",
+            "column_size": "4",
             "title": "Column title",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -478,6 +490,7 @@
       },
       "block_order": [
         "item_zW7QDB",
+        "item_ALGJU9",
         "item_hL3ViA",
         "item_FHMxxy"
       ],
@@ -509,10 +522,36 @@
             "animate_impact_text": false,
             "animate_impact_text_duration": 2
           }
+        },
+        "item_AcXB7W": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_z8xzmL": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
         }
       },
       "block_order": [
-        "1664424181b38582d5-0"
+        "1664424181b38582d5-0",
+        "item_AcXB7W",
+        "item_z8xzmL"
       ],
       "settings": {
         "full_width": true,
