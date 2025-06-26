@@ -436,19 +436,6 @@
             "link_style": "link"
           }
         },
-        "item_ALGJU9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5.webp",
-            "column_size": "4",
-            "title": "Christelle B.",
-            "heading_tag": "h4",
-            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_hL3ViA": {
           "type": "item",
           "settings": {
@@ -457,6 +444,19 @@
             "title": "Alice F.",
             "heading_tag": "h4",
             "content": "<p><em>\"Je ne supportais plus mes rougeurs sur mon visage, je pensais à un traitement médicale, puis j’ai essayé Flaner. Je suis tellement heureuse, ma peau est apaisé !\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ALGJU9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5.webp",
+            "column_size": "4",
+            "title": "Christelle B.",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Depuis que j'utilise ce produit, ma peau a été transformée. Les résultats sont visibles rapidement, et je ne peux plus m’en passer. C’est devenu un indispensable dans ma routine beauté\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -477,8 +477,8 @@
       },
       "block_order": [
         "item_zW7QDB",
-        "item_ALGJU9",
         "item_hL3ViA",
+        "item_ALGJU9",
         "item_FHMxxy"
       ],
       "custom_css": [
