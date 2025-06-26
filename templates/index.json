@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ordi_nature_4.png",
-            "mobile_image": "shopify://shop_images/ban_phone_1_1.png",
+            "image": "shopify://shop_images/ordi_nature_9.png",
+            "mobile_image": "shopify://shop_images/ban_phone_1_b34c5cb4-ea61-41da-be4a-55789d8c35da.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -37,8 +37,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ordi_nature_6.png",
-            "mobile_image": "shopify://shop_images/ban_phone_1.png",
+            "image": "shopify://shop_images/ordi_nature_10.png",
+            "mobile_image": "shopify://shop_images/ban_phone_1_1_179c9ec5-e39c-4f3b-af42-80a5736f71ee.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -163,43 +163,19 @@
     },
     "image_with_text_overlay_cVUcR4": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_q9Mm7H": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_tJiWEW": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_GkxRyE": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_q9Mm7H",
-        "heading_tJiWEW",
-        "richtext_GkxRyE"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/bienfaits_ordi_4.png",
+        "mobile_image": "shopify://shop_images/bienfaits_ordi_4.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "scrolling-text": {
