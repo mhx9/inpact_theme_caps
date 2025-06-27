@@ -115,6 +115,9 @@
         "logo_477hAr",
         "logo_3xPWUe"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 10px; padding-bottom: 10px;}"
+      ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
