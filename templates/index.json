@@ -181,6 +181,38 @@
         "overlay_opacity": 0
       }
     },
+    "video_LjYmYH": {
+      "type": "video",
+      "blocks": {
+        "play_34pfLp": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_HkMkwX": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_34pfLp",
+        "heading_HkMkwX"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Sarah B _ UGC 🇨🇦_7488988122865356038-no-watermark.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "scrolling-text": {
       "type": "scrolling-text",
       "disabled": true,
@@ -1081,6 +1113,7 @@
     "logo_list_8PTP8U",
     "rich_text_CHaz8Q",
     "image_with_text_overlay_cVUcR4",
+    "video_LjYmYH",
     "scrolling-text",
     "collection-list",
     "featured-collection",
