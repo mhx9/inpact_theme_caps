@@ -539,6 +539,7 @@
         },
         "variant-picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -549,6 +550,7 @@
         },
         "quantity-selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "buy-buttons": {
