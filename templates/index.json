@@ -543,6 +543,9 @@
         "item_AcXB7W",
         "item_z8xzmL"
       ],
+      "custom_css": [
+        ".section-full {padding-bottom: 10px;}"
+      ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -638,11 +641,11 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "glowberry-creme-capsules-jeunesse-a-la-tomate",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
         "enable_image_zoom": true,
