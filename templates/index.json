@@ -193,7 +193,7 @@
         "play_34pfLp"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px;}"
+        ".section-full {padding-top: 50px;}"
       ],
       "name": "Video",
       "settings": {
