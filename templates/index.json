@@ -505,7 +505,7 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "Disent que leur Peau est immédiatement plus Lisse et Hydratée",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -517,7 +517,7 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "Constatent un Teint plus Lumineux et plus Uniforme",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -529,7 +529,7 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "Affirment que leur peau est moins Sensible et plus Apaisée",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -552,9 +552,9 @@
         "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
+        "heading_text_color": "#fd9eb8",
+        "heading_gradient": "linear-gradient(180deg, rgba(251, 99, 99, 1) 36%, rgba(26, 26, 26, 0) 100%)",
+        "text_color": "#fb636380",
         "button_background": "",
         "button_text_color": ""
       }
