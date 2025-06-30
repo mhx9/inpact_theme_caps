@@ -900,8 +900,8 @@
           "settings": {
             "video": "shopify://files/videos/Vidéo sans son i.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
+            "modal_heading": "",
+            "modal_text": ""
           }
         },
         "video_nbbYny": {
@@ -909,8 +909,8 @@
           "settings": {
             "video": "shopify://files/videos/Vidéo sans son b.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
+            "modal_heading": "",
+            "modal_text": ""
           }
         },
         "video_MAHN7y": {
@@ -918,8 +918,8 @@
           "settings": {
             "video": "shopify://files/videos/Vidéo sans son a.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "modal_heading": "<h4>Modal Heading</h4>",
-            "modal_text": "<p>Modal Text</p>"
+            "modal_heading": "",
+            "modal_text": ""
           }
         }
       },
@@ -932,7 +932,7 @@
       "settings": {
         "videos_position": "above_description",
         "use_metafield": false,
-        "heading": "<h2>WHAT OUR FELLOWS SAY</h2>",
+        "heading": "<h2>Vous et FLANER</h2>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 18,
