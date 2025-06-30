@@ -1151,29 +1151,85 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Qu’est-ce que GlowBerry ?",
+            "content": "<p>GlowBerry est une crème anti-âge innovante, associant <strong>capsules actives</strong> et <strong>gel hydratant</strong>. <br/>Elle est formulée avec des ingrédients puissants comme l’<strong>extrait de tomate</strong>, les <strong>9 peptides</strong>, l’<strong>acide hyaluronique multi-niveaux</strong> et la <strong>Centella Asiatica</strong>. <br/>Sa mission : <strong>hydrater, lisser, apaiser</strong> et révéler l’éclat naturel de votre peau.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Quels sont les bienfaits concrets ?",
+            "content": "<p>✔️ Hydratation longue durée grâce à l’acide hyaluronique<br/><br/>✔️ Réduction visible des rides et ridules avec les peptides et l’adénosine<br/><br/>✔️ Teint plus lumineux grâce à l’extrait de tomate (riche en lycopène)<br/><br/>✔️ Apaisement des rougeurs et réparation avec la Centella et les céramides<br/><br/>✔️ Texture sensorielle agréable – un vrai moment de soin</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Quels sont les ingrédients clés ?",
+            "content": "<ul><li>Extrait de tomate : antioxydant, illumine le teint</li><li>9 peptides + adénosine : effet liftant et anti-âge</li><li>Acide hyaluronique (8 types) : hydratation multi-couches</li><li>Céramides + cholestérol : réparation de la barrière cutanée</li><li>Squalane + huile de jojoba : film protecteur naturel</li><li>Niacinamide + Centella asiatica : apaisement et uniformité</li></ul>"
+          }
+        },
+        "item_VQUMne": {
+          "type": "item",
+          "settings": {
+            "title": "À qui s’adresse cette crème ?",
+            "content": "<p>Elle convient à <strong>tous les types de peau</strong> : sèche, grasse, mixte ou sensible. Grâce à sa formule <strong>adaptable</strong> (ratio capsule/gel ajustable), elle offre une solution ciblée pour les besoins spécifiques de chaque peau.</p>"
+          }
+        },
+        "item_HJeCCf": {
+          "type": "item",
+          "settings": {
+            "title": "Comment utiliser cette crème ?",
+            "content": "<ol><li>À l’aide de la spatule, prenez 1 capsule et une dose d’ampoule.</li><li>Ajustez la quantité selon votre peau :</li></ol><ul><li>Peau sèche → 2 capsule + 4 noisettes de gel</li><li>Peau normale → 3 capsule + 3 noisettes de gel</li><li>Peau grasse → 4 capsules + 2 noisette de gel</li></ul><ol><li>Mélangez bien dans la paume de votre main.</li><li>Appliquez sur le visage et massez jusqu’à absorption complète.</li><li>À utiliser matin ou soir quotidiennement pour des résultats visibles.</li></ol>"
+          }
+        },
+        "item_ip3xww": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l’utiliser avec d’autres produits ?",
+            "content": "<p>Oui ! GlowBerry s’intègre parfaitement dans votre routine. Appliquez-la après votre sérum ou seule. Elle fait aussi une excellente base avant le maquillage.</p>"
+          }
+        },
+        "item_kN7g7g": {
+          "type": "item",
+          "settings": {
+            "title": "La crème est-elle naturelle ou vegan ?",
+            "content": "<p>Oui, GlowBerry est formulée à partir d’actifs <strong>issus de la nature</strong> (tomate, Centella, huiles végétales), <strong>100 % vegan</strong> et <strong>clean</strong> (sans ingrédients controversés, sans alcool, sans parfum agressif).</p>"
+          }
+        },
+        "item_nDjGLQ": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que les résultats sont visibles rapidement ?",
+            "content": "<p>Les premières sensations d’hydratation et d’apaisement sont <strong>immédiates</strong>. L’éclat du teint s’améliore en quelques jours, et les effets anti-âge deviennent visibles généralement <strong>dès 2 semaines</strong> d’utilisation régulière.</p>"
+          }
+        },
+        "item_yKzzQE": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure un pot ?",
+            "content": "<p>Un pot de 50 ml dure en moyenne <strong>4 à 5 semaines</strong>, selon l’utilisation</p>"
+          }
+        },
+        "item_8fdYWj": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_VQUMne",
+        "item_HJeCCf",
+        "item_ip3xww",
+        "item_kN7g7g",
+        "item_nDjGLQ",
+        "item_yKzzQE",
+        "item_8fdYWj"
       ],
       "settings": {
         "full_width": false,
