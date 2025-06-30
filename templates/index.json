@@ -626,6 +626,19 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_HfkTzM": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div id='ss-product-videos'></div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "ss_product_videos_BUPd49": {
       "type": "SS-ProductVideos",
       "blocks": {
@@ -856,6 +869,96 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_m9qUVt": {
+      "type": "multi-column",
+      "blocks": {
+        "item_8X6dmJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/in5n.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_iPDwMz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ingre.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VhfRAx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ing45.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NyPyYw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/in54.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wiUwmx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/in5121.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_8X6dmJ",
+        "item_iPDwMz",
+        "item_VhfRAx",
+        "item_NyPyYw",
+        "item_wiUwmx"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ingrédients testés cliniquement",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media-grid": {
       "type": "media-grid",
       "blocks": {
@@ -1028,19 +1131,6 @@
         "button_text_color": ""
       }
     },
-    "custom_liquid_HfkTzM": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div id='ss-product-videos'></div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -1110,6 +1200,7 @@
     "ss_product_videos_BUPd49",
     "impact-text",
     "image_with_text_overlay_h4nyhp",
+    "multi_column_m9qUVt",
     "media-grid",
     "before-after-image",
     "multiple-images-with-text",
