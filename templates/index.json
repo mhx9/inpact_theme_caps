@@ -482,7 +482,7 @@
         "item_ALGJU9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5.webp",
+            "image": "shopify://shop_images/av_ap.png",
             "column_size": "4",
             "title": "Christelle B.",
             "heading_tag": "h4",
@@ -495,10 +495,11 @@
         "item_FHMxxy": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/av_ap_3.png",
             "column_size": "4",
-            "title": "Column title",
+            "title": "Estelle S.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>Les pattes d’oie autour de mes yeux étaient mon plus grand complexe, mais en quelques semaines, elles ont pratiquement disparu. Je le recommande à toute ma famille</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
