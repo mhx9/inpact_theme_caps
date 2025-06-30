@@ -903,9 +903,9 @@
           "settings": {
             "image": "shopify://shop_images/ing45.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Peptides (9 types)",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<ul><li>Stimulent la production naturelle de collagène</li><li>Lissent les rides et ridules</li><li>Raffermissent la peau et améliorent son élasticité</li></ul>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -916,9 +916,9 @@
           "settings": {
             "image": "shopify://shop_images/in54.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Acide hyaluronique multi-niveaux",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<ul><li>Hydrate intensément toutes les couches de la peau</li><li>Repulpe le visage pour un effet “peau rebondie”</li><li>Lisse les ridules de déshydratation</li></ul>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
