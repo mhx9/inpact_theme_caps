@@ -911,6 +911,7 @@
         "video_MAHN7y": {
           "type": "video",
           "settings": {
+            "video": "shopify://files/videos/Vidéo sans son a.mp4",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "modal_heading": "<h4>Modal Heading</h4>",
             "modal_text": "<p>Modal Text</p>"
