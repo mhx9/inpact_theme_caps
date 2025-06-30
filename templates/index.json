@@ -877,9 +877,9 @@
           "settings": {
             "image": "shopify://shop_images/in5n.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Extrait de tomate",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<ul><li>Antioxydant puissant : protège la peau du vieillissement prématuré</li><li>Ravive l’éclat du teint</li><li>Améliore la texture de la peau en douceur</li></ul>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -890,9 +890,9 @@
           "settings": {
             "image": "shopify://shop_images/ingre.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Centella Asiatica",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<ul><li>Apaise les rougeurs, irritations et inflammations</li><li>Accélère la cicatrisation des petits défauts cutanés</li><li>Renforce la barrière protectrice naturelle de la peau</li></ul>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
