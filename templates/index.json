@@ -1023,7 +1023,7 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/photo_blog_skinorea_480x480_33f438f1-ba8d-4c4c-b4db-223d5edc678a.jpg",
+            "image": "shopify://shop_images/125_bf8afeb1-a311-4068-8a89-82358d6e4488.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -1044,6 +1044,7 @@
         },
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/K-Beauty-voici-la-pharmacie-parisienne-ou-enfin-trouver-des-produits-de-skincare-coreens--1024x582.webp",
             "title": "Promote your products",
