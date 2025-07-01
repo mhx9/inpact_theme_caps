@@ -1227,13 +1227,6 @@
             "title": "Combien de temps dure un pot ?",
             "content": "<p>Un pot de 50 ml dure en moyenne <strong>4 à 5 semaines</strong>, selon l’utilisation</p>"
           }
-        },
-        "item_8fdYWj": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
         }
       },
       "block_order": [
@@ -1245,8 +1238,7 @@
         "item_ip3xww",
         "item_kN7g7g",
         "item_nDjGLQ",
-        "item_yKzzQE",
-        "item_8fdYWj"
+        "item_yKzzQE"
       ],
       "settings": {
         "full_width": false,
