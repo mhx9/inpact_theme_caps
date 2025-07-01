@@ -980,7 +980,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/125.png",
-            "title": "Promote your products",
+            "title": "Lisse les rides",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -995,14 +995,14 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         },
         "item-2": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/photo-accroche-beaute-test-2025-02-07t121531.webp",
-            "title": "",
+            "title": "Apaise la peau",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -1017,14 +1017,14 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         },
         "item-3": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/125_bf8afeb1-a311-4068-8a89-82358d6e4488.png",
-            "title": "Promote your products",
+            "title": "Hydrate en profondeur",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -1039,7 +1039,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 25
           }
         },
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
